@@ -1,14 +1,14 @@
-Para elaborar este prompt se realizaron los siguientes pasos 
+#Para elaborar este prompt se realizaron los siguientes pasos 
 1) se redacto en ingles con la estructura sugerida en el modulo 1 del curso 
 2) se solicita a una IA generativa que corriguiera ortagrafia y gramatica (correccion ortografica y gramatical con Gemini 2.5 pro preview)
 3) se inicio el desarrollo y se continuo hasta desde el prompt #2 hasta el prompt #7 con  DeepSeek-V3 con DeepThink R1 activo
 4) dado que el resultado no mejoraba se entrego todo el codigo y las instrucciones para correguir las fallas a Gemini Flash 2.0 
 
-Indicadores 
-Total de Interacciones 13
-Total de horas invertidas: 6 horas
-Porcentaje de horas invertidas en la funcionalidad Countdow %90
-Modulo con mayor dificultad:  1 countdown , llenado de datos
+##Indicadores 
+##Total de Interacciones 13
+##Total de horas invertidas: 6 horas
+##Porcentaje de horas invertidas en la funcionalidad Countdow %90
+## Modulo con mayor dificultad:  1 countdown , llenado de datos
 
 
 
